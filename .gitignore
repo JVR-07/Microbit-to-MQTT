@@ -1,0 +1,16 @@
+# Rust
+*.lock
+*/target
+
+# JS
+*/node_modules
+*package-lock.json
+
+# GO
+*.sum
+
+# C#
+*.vscode
+**/bin
+**/obj
+*.sln
