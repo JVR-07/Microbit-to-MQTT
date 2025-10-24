@@ -1,4 +1,15 @@
 # Proyecto Multilenguaje – MicroBit to MQTT
+![Wallpaper](https://raw.githubusercontent.com/JVR-07/College-Projects/refs/heads/main/Resource/wallpaper_itt.png)
+
+**Autor:** Javier Machado Sánchez
+  
+**Institución:** Instituto Tecnológico de Tijuana
+  
+**Materia:** Sistemas Programables
+  
+**Profesor:** René Solís Reyes
+  
+**Fecha:** 23 de Octubre de 2025
 ## Introducción
 Este repositorio contiene implementaciones en **seis lenguajes de programación diferentes** (C#, Go, Java, JavaScript, Python y Rust) que realizan la misma tarea:  
 leer los datos del sensor de una **Micro:bit** desde el **puerto serial**, mostrarlos en consola y enviarlos mediante el protocolo **MQTT** a un tema determinado.
